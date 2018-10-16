@@ -1,0 +1,16 @@
+{
+	"cq_protocal": "http",	
+	"cq_host": "localhost",	
+	"cq_port": "4502",	
+	"cq_user": "admin",	
+	"cq_password": "admin",	
+	"legacy_tags_extract": ["in/tags_orientation.csv","in/tags_style.csv"],
+	"new_tags_mapping": "in/tags_mapping.csv",
+	"successful_tags": "out/successful_tags.lst",
+	"failed_tags": "out/failed_tags.lst",
+	"time_wait_secs":1,
+	"log_response": false,
+	"trace_log": "logs/trace.log",
+	"error_log": "logs/error.log",
+	"status_log": "logs/status.log"
+}

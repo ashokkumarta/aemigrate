@@ -1,0 +1,15 @@
+{
+	"cq_protocal": "http",	
+	"cq_host": "localhost",	
+	"cq_port": "4502",	
+	"cq_user": "admin",	
+	"cq_password": "admin",	
+	"assets_in_path": "/content/dam",
+	"metadata_file": "out/asset_metadata.json",
+	"assets_file": "out/asset_list.lst",
+	"asset_json_node": "hits",
+	"path_json_node": "path",
+	"trace_log": "logs/trace.log",
+	"error_log": "logs/error.log",
+	"status_log": "logs/status.log"
+}

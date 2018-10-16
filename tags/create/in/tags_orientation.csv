@@ -1,0 +1,5 @@
+ID,Title,Description
+/etc/tags/properties/orientation,Orientation,
+/etc/tags/properties/orientation/landscape,Landscape,
+/etc/tags/properties/orientation/portrait,Portrait,
+/etc/tags/properties/orientation/square,Square,

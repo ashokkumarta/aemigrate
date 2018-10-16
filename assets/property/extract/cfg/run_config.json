@@ -1,0 +1,23 @@
+{
+	"cq_protocal": "http",	
+	"cq_host": "localhost",	
+	"cq_port": "4502",	
+	"cq_user": "admin",	
+	"cq_password": "admin",	
+	"base_path": "/content/dam",
+	"asset_json_node": "hits",
+	"path_json_node": "jcr:path",
+	"path_list":"in/paths_to_process.lst",
+	"extract_properties": [
+		"jcr:path",
+		"jcr:content/jcr:lastModified"
+	],
+
+	"properties_output": "out/properties_dump.csv",
+
+	"trace_log": "logs/trace.log",
+	"error_log": "logs/error.log",
+	"status_log": "logs/status.log"
+}
+
+

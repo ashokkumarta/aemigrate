@@ -1,0 +1,14 @@
+{
+	"cq_protocal": "http",	
+	"cq_host": "localhost",	
+	"cq_port": "4502",	
+	"cq_user": "admin",	
+	"cq_password": "admin",	
+	"base_path": "/content/dam/",	
+	"input_file": "in/taxonomy.csv",
+	"trace_log": "logs/trace.log"
+}
+
+
+
+

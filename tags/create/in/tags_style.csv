@@ -1,0 +1,5 @@
+ID,Title,Description
+/etc/tags/properties/style,Style,
+/etc/tags/properties/style/color,Color,
+/etc/tags/properties/style/monochrome,Monochrome,
+/etc/tags/properties/style/monochrome/grayscale,Grayscale,

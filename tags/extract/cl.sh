@@ -1,0 +1,9 @@
+cd logs
+rm *.log
+cd ../out
+rm *.csv
+rm *.sql
+rm *.log
+rm *.lst
+rm *.json
+cd ..

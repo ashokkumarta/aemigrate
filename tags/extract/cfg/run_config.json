@@ -1,0 +1,16 @@
+{
+	"cq_protocal": "http",	
+	"cq_host": "localhost",	
+	"cq_port": "4502",	
+	"cq_user": "admin",	
+	"cq_password": "admin",	
+	"metadata_file": "out/dump.json",
+	"asset_json_node": "hits",
+	"path_json_node": "path",
+	"tag_namespace": "properties",
+	"tags_template_file": "in/tags_template.csv",
+	"tags_output_file": "out/tags_output.csv",
+	"trace_log": "logs/trace.log",
+	"error_log": "logs/error.log",
+	"status_log": "logs/status.log"
+}

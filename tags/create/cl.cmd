@@ -1,0 +1,9 @@
+cd logs
+del *.log
+cd ..\out
+del *.csv
+del *.sql
+del *.log
+del *.lst
+del *.json
+cd ..

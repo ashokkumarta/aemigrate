@@ -1,0 +1,9 @@
+Tags Structure to build,Tags from input
+/etc/tags/qualities/orientation,/etc/tags/properties/orientation
+/etc/tags/qualities/orientation/landscape,/etc/tags/properties/orientation/landscape
+/etc/tags/qualities/orientation/portrait,/etc/tags/properties/orientation/portrait
+/etc/tags/qualities/orientation/square,/etc/tags/properties/orientation/square
+/etc/tags/qualities/style,/etc/tags/properties/style
+/etc/tags/qualities/style/color,/etc/tags/properties/style/color
+/etc/tags/qualities/style/monochrome,/etc/tags/properties/style/monochrome
+/etc/tags/qualities/style/monochrome/grayscale,/etc/tags/properties/style/monochrome/grayscale
