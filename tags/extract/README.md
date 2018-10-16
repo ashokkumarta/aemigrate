@@ -1,7 +1,4 @@
 # aemigrate - Extract tags 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 This script extracts all the tags defined under a given tag namespace.  
 It probes and finds all the tags under a given tag namespace and outputs all the tags to a configured CSV file output 

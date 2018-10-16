@@ -1,7 +1,4 @@
 # aemigrate - Update Asset Properties 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 This script updates the properties for the given set of assets based on the input CSV data
 

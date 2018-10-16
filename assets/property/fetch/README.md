@@ -1,7 +1,4 @@
 # aemigrate - Fetch Assets 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 Fetch Assets - Probes and finds all the assets under a given path and writes the list of assets found, to the configured output file
 

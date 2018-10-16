@@ -1,7 +1,4 @@
 # aemigrate - Extract Asset Properties 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 Extracts the configured set of asset properties and writes it to a CSV file.   
 

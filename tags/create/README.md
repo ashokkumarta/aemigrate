@@ -1,7 +1,4 @@
 # aemigrate - Create tags 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 This script creates the tags provided in a mapping file. For each of the new tag defined in the mapping sheet, finds the Title & Description of the corresponding tags from the legacy tags extract set defined and creates
 the tag in the configured AEM instance

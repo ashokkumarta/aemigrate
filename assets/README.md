@@ -1,7 +1,4 @@
 # aemigrate - AEM asset migration utilities 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 A set of AEM migration utilities for assets. The scripts under this folder covers the utilities for 
 1. Uploading & downloading of Asset binaries 

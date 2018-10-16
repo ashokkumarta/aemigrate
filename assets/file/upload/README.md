@@ -1,7 +1,4 @@
 # aemigrate - Upload assets to AEM 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 Uploads the assets from the local path to the AEM instance.   
 

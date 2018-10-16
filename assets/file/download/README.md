@@ -1,7 +1,4 @@
 # aemigrate - Download assets from AEM 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 Downloads the assets from AEM and stores it in the local folder.   
 

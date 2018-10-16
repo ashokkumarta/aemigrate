@@ -1,7 +1,4 @@
 # aemigrate - Create Asset Folder Taxonomy 
-## Adobe Experience Manager (AEM) solution
-## Author: Ashokkumar T A								
-## Date: 15-Oct-2018
 
 Creates folder taxonomy for the asset based on the given input
 
