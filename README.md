@@ -30,7 +30,7 @@ cl.cmd - Windows command script that clears up the logs and output from the prev
 ``` 
 
 ### Includes
-+ Utitities for handling asset binaries (uploading, downloading)
++ Utilities for handling asset binaries (uploading, downloading)
 + Utilities for handling asset properties (extracting, updating, fetching the asset list)
 + Utility for creating asset folder taxonomy
 + Utilities for managing tags (creating, extracting)
